@@ -29,7 +29,7 @@ function draw(){
     Engine.update(engine);
 
     // write code to display time in correct format here
-    getBackgroundImg()
+    
 
 }
 
